@@ -1,5 +1,5 @@
 - Hi, I’m Yifei (Kristine) Yuan @kila097, a 2B student in the University of Waterloo majoring Computer Science.
-- I’m currently seeking a second coop in for Spring 2022.
+- I’m currently seeking a second coop in for Winter 2023.
 
 
 <!---
