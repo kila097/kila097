@@ -1,4 +1,4 @@
-- Hi, I’m Yifei (Kristine) Yuan @kila097, a 3B student in the University of Waterloo majoring Computer Science.
+- Hi, I’m Yifei (Kristine) Yuan @kila097, a 4A student in the University of Waterloo majoring Computer Science.
 
 
 <!---
